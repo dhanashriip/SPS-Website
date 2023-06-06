@@ -1,0 +1,78 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #ccc;
+}
+.pimg1 {
+    background-image: url(https://www.jands.com.au/images/CategoryImages/Banners/Accessories%20Banner.jpg);
+    min-height: 350px;
+} 
+.pimg2 {
+  background-image: url(https://th.bing.com/th/id/R.51c51d17d91f27cd3de8e93468e62437?rik=iEHgiqqfnZ59kw&riu=http%3a%2f%2fwww.wirerealm.com%2fwp-content%2fuploads%2f2017%2f08%2fbest-dj-equipment-and-gear.jpg&ehk=29dmqrtgBku5mtKlLdeudD2OVLERIiVhB0bPToWFQag%3d&risl=&pid=ImgRaw&r=0.jpg);
+  min-height: 300px;
+}
+.pimg3 {
+  background-image: url(https://5.imimg.com/data5/SELLER/Default/2021/2/GX/CA/ES/41982123/sound-systems-on-hire.jpg);
+  min-height: 300px;
+}
+.pimg1,
+.pimg2,
+.pimg3 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.textBg {
+  background: #090a0a;
+  color: #ffffff;
+  padding: 20px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.section {
+  padding: 50px 50px;
+  text-align: center;
+}
+.section-light {
+  background-color: #f4f4f4;
+  font-size:large;
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #0e0d0d;
+}
+.section-dark {
+  background-color: #000000;
+  color: #f8f4f4;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:large;
+  text-align: center;
+}
+
+div.container{
+  text-align: center;
+}
+  ul.myul{
+  text-align: left;
+  display: inline-block;
+  
+}
+
